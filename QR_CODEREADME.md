@@ -1,4 +1,4 @@
-# ORCODE GENERATOR
+# QRCODE GENERATOR
 
 ## Table of contents
 * [Installation](#installation)
